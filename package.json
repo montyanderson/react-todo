@@ -1,0 +1,21 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babelify": "^7.3.0",
+    "babili": "^0.1.4",
+    "browserify": "^14.4.0",
+    "earthly": "0.0.2",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
